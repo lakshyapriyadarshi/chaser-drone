@@ -1,0 +1,2 @@
+pid_tune:pluto_drone/pluto_drone:pluto_drone/plutodrone:pluto_drone/plutoserver:whycon
+-DCATKIN_DEVEL_PREFIX=/home/lekhraj/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lekhraj/catkin_ws/install -G Unix Makefiles
